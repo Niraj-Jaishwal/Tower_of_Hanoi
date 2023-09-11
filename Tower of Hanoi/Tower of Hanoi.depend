@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1680745828 source:c:\users\niraj\onedrive\desktop\spring 2023\computer science ii\tower of hanoi\tower of hanoi\src\towers.cpp
+	<iostream>
+	"towers.h"
+	"mystack.h"
+
+1680740713 c:\users\niraj\onedrive\desktop\spring 2023\computer science ii\tower of hanoi\tower of hanoi\include\towers.h
+	"mystack.h"
+
+1680746000 c:\users\niraj\onedrive\desktop\spring 2023\computer science ii\tower of hanoi\tower of hanoi\include\mystack.h
+	<iostream>
+
+1680740683 source:c:\users\niraj\onedrive\desktop\spring 2023\computer science ii\tower of hanoi\tower of hanoi\towerofhanoi.cpp
+	<iostream>
+	"towers.h"
+
+1680740713 c:\users\niraj\onedrive\desktop\spring 2023\computer science ii\tower of hanoi\tower of hanoi\towers.h
+	"mystack.h"
+
+1680746000 c:\users\niraj\onedrive\desktop\spring 2023\computer science ii\tower of hanoi\tower of hanoi\mystack.h
+	<iostream>
+
